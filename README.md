@@ -14,7 +14,7 @@ automatic local world persistence. Its procedural artwork and source code do not
 - Grid-accurate block targeting with a visible selection outline
 - Grass, dirt, stone, sand, wood, leaves, and cobblestone placement
 - Sparse browser storage that saves only the seed and player edits
-- Responsive pause menu, crosshair, selected-block label, and keyboard-accessible hotbar
+- Responsive pause menu, crosshair, selected-block label, and keyboard-accessible hotbar 
 
 ## Requirements
 
